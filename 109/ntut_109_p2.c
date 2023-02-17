@@ -65,6 +65,7 @@ int main(){
     bar (students);
 
     printf("%s\n",students[0].id) ;
+    //123
     return 0;
 }
 
